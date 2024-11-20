@@ -40,9 +40,7 @@ Push a la rama (git push origin feature/AmazingFeature)
 Abre un Pull Request
 
 👨‍💻 Autor
-
 Dana Albornoz
-
-\° GitHub: (https://github.com/DanaYael)
+📍 GitHub: (https://github.com/DanaYael)
 
 ⭐️ No olvides darle una estrella a este proyecto si te gusta! 😄

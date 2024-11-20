@@ -1,0 +1,17 @@
+section {
+  border: 5px solid red;
+  padding: 30px;
+  border-radius: 30px;
+  background-color: rosybrown;
+  height: 300px;
+}
+
+.btn {
+  padding: 20px 30px 20px 30px;
+  margin-top: 30px;
+}
+
+#cronometro {
+  font-weight: bold;
+  color: black;
+}
